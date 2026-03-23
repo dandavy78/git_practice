@@ -2,7 +2,9 @@ body{
     background-color: bisque;
     color: maroon;
 }
-
 h2 {
     color: magenta;
 }
+
+li{color: darkgreen;}
+
